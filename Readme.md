@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Cumaks Antons](https://up.htmlacademy.ru/htmlcss/27/user/1335003).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Мирошниченко](https://htmlacademy.ru/profile/id591417).
 
 ---
 
